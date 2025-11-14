@@ -31,8 +31,8 @@ Users can: - Log in / Sign up
 ---
 
 ## 🎬 App Demo Video  
-Click below to watch the complete app flow:  
-[Watch Demo Video](https://github.com/user-attachments/assets/bc20f95c-42a2-4c47-a857-c887ec4fff4c)
+The Complete app flow:  
+<video width="200" alt="Screenshot 1" src="https://github.com/user-attachments/assets/bc20f95c-42a2-4c47-a857-c887ec4fff4c" />
 
 ---
 
